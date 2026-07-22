@@ -1,22 +1,23 @@
-# Olá, eu sou o [Yago Silva]! 👋
+# Olá, eu sou o Yago Silva! 👋
 
 Desenvolvedor Full Stack apaixonado por transformar linhas de código em soluções reais e eficientes. Recentemente concluí uma formação intensiva na área, onde desenvolvi projetos práticos integrando desde a interface do usuário até a estruturação de bancos de dados.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
 
 ### 🛠️ Tecnologias e Ferramentas
 
 #### Front-end
-<img src="./logos/html.png" width="40" height="40" alt="HTML5" />
-<img src="./logos/css.png" width="40" height="40" alt="CSS3" />
-<img src="./logos/javascript.png" width="40" height="40" alt="JavaScript" />
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### Back-end & Banco de Dados
-<img src="./logos/nodejs.png" width="40" height="40" alt="NodeJS" />
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 <img src="./logos/express.png" width="40" height="40" alt="Express.js" />
-<img src="./logos/mysql.png" width="40" height="40" alt="MySQL" />
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ---
@@ -62,9 +63,7 @@ Aqui estão alguns dos projetos mais relevantes que desenvolvi para consolidar m
 
 ### 📫 Vamos nos conectar?
 
-<a href="https://linkedin.com" target="_blank">
-  <img src="./logos/linkedin.png" width="45" height="45" alt="LinkedIn" />
-</a>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href="alvesy.s890@gmail.com">
   <img src="./logos/gmail.png" width="45" height="45" alt="Email" />
 </a>
