@@ -6,17 +6,14 @@ Desenvolvedor Full Stack apaixonado por transformar linhas de código em soluç�
 
 ### 🛠️ Tecnologias e Ferramentas
 
+### 🛠️ Tecnologias e Ferramentas
+
 #### Front-end
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![Bootstrap](https://shields.io)
-![React](https://shields.io)
+<img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" /> <img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" /> <img src="https://jsdelivr.net" width="40" height="40" alt="JavaScript" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Bootstrap" /> <img src="https://jsdelivr.net" width="40" height="40" alt="React" />
 
 #### Back-end & Banco de Dados
-![NodeJS](https://shields.io)
-![Express.js](https://shields.io)
-![MySQL](https://shields.io)
+<img src="https://jsdelivr.net" width="40" height="40" alt="NodeJS" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Express" /> <img src="https://jsdelivr.net" width="40" height="40" alt="MySQL" />
+
 
 ---
 
@@ -61,5 +58,12 @@ Aqui estão alguns dos projetos mais relevantes que desenvolvi para consolidar m
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://shields.io)]([https://linkedin.com](https://www.linkedin.com/in/yago-silva-008a88247/))
-[![E-mail](https://shields.io)](alvesy.s890@gmail.com)
+### 📫 Vamos nos conectar?
+
+<a href="[https://linkedin.com](https://www.linkedin.com/in/yago-silva-008a88247/)" target="_blank">
+  <img src="https://jsdelivr.net" width="45" height="45" alt="LinkedIn" />
+</a>
+<a href="alvesy.s890@gmail.com">
+  <img src="https://githubusercontent.com" width="45" height="45" alt="Email" />
+</a>
+
