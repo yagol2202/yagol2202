@@ -9,10 +9,14 @@ Desenvolvedor Full Stack apaixonado por transformar linhas de código em soluç�
 ### 🛠️ Tecnologias e Ferramentas
 
 #### Front-end
-<img src="https://jsdelivr.net" width="40" height="40" alt="HTML5" /> <img src="https://jsdelivr.net" width="40" height="40" alt="CSS3" /> <img src="https://jsdelivr.net" width="40" height="40" alt="JavaScript" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Bootstrap" /> <img src="https://jsdelivr.net" width="40" height="40" alt="React" />
+<img src="./logos/html.png" width="40" height="40" alt="HTML5" />
+<img src="./logos/css.png" width="40" height="40" alt="CSS3" />
+<img src="./logos/javascript.png" width="40" height="40" alt="JavaScript" />
 
 #### Back-end & Banco de Dados
-<img src="https://jsdelivr.net" width="40" height="40" alt="NodeJS" /> <img src="https://jsdelivr.net" width="40" height="40" alt="Express" /> <img src="https://jsdelivr.net" width="40" height="40" alt="MySQL" />
+<img src="./logos/nodejs.png" width="40" height="40" alt="NodeJS" />
+<img src="./logos/express.png" width="40" height="40" alt="Express.js" />
+<img src="./logos/mysql.png" width="40" height="40" alt="MySQL" />
 
 
 ---
@@ -58,12 +62,12 @@ Aqui estão alguns dos projetos mais relevantes que desenvolvi para consolidar m
 
 ### 📫 Vamos nos conectar?
 
-### 📫 Vamos nos conectar?
-
-<a href="[https://linkedin.com](https://www.linkedin.com/in/yago-silva-008a88247/)" target="_blank">
-  <img src="https://jsdelivr.net" width="45" height="45" alt="LinkedIn" />
+<a href="https://linkedin.com" target="_blank">
+  <img src="./logos/linkedin.png" width="45" height="45" alt="LinkedIn" />
 </a>
 <a href="alvesy.s890@gmail.com">
-  <img src="https://githubusercontent.com" width="45" height="45" alt="Email" />
+  <img src="./logos/gmail.png" width="45" height="45" alt="Email" />
 </a>
+
+
 
