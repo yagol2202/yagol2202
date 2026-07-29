@@ -52,9 +52,7 @@ Aqui estão alguns dos projetos mais relevantes que desenvolvi para consolidar m
 
 ### 📫 Vamos nos conectar?
 
-<a href="alvesy.s890@gmail.com">
-  <img src="./logos/gmail.png" width="45" height="45" alt="Email" />
-</a>
+alvesy.s890@gmail.com
 
 
 
