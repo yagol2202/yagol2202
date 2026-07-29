@@ -16,7 +16,6 @@ Desenvolvedor Full Stack apaixonado por transformar linhas de código em soluç�
 
 #### Back-end & Banco de Dados
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-<img src="./logos/express.png" width="40" height="40" alt="Express.js" />
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
@@ -48,16 +47,6 @@ Aqui estão alguns dos projetos mais relevantes que desenvolvi para consolidar m
   * **Gerenciamento de Estados:** Uso estratégico de React Hooks (`useState`, `useEffect`, `useParams`, `useSearchParams`) para controlar buscas textuais integradas diretamente à URL da aplicação.
 * 🔗 [Acessar Repositório](https://github.com/yagol2202/DigitalStore)
 
-
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://vercel.app"/>
-  <img height="180em" src="https://vercel.app"/>
-</p>
 
 ---
 
